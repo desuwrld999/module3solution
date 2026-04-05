@@ -9,12 +9,17 @@ body {
   margin-top: 20px;
 }
 
+/* Делаем большой скролл */
+.tall-section {
+  height: 1000px;
+}
+
 /* Мобильное меню */
-#mobile-menu {
+#collapsable-nav {
   background-color: #ddd;
 }
 
-/* Убираем отступы у списка */
+/* Убираем отступы */
 .navbar-nav {
   margin: 0;
 }
