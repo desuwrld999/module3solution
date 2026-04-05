@@ -1,0 +1,20 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+/* Основной блок */
+.content-box {
+  background-color: #f2f2f2;
+  padding: 20px;
+  margin-top: 20px;
+}
+
+/* Мобильное меню */
+#mobile-menu {
+  background-color: #ddd;
+}
+
+/* Убираем отступы у списка */
+.navbar-nav {
+  margin: 0;
+}
